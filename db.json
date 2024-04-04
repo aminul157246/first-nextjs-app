@@ -1,0 +1,41 @@
+{
+    "posts":  [
+        {
+          "id": 1,
+          "title": "Introduction is a very common to Next.js",
+          "description": "Next.js is a React framework that enables server-side rendering and provides a smooth developer experience. Learn how to build dynamic and performant web applications.",
+          "likeCount": 25
+        },
+        {
+          "id": 2,
+          "title": "JavaScript ES6 Features",
+          "description": "Explore the powerful features introduced in ECMAScript 2015 (ES6), including arrow functions, destructuring, and template literals. Upgrade your JavaScript skills.",
+          "likeCount": 45
+        },
+        {
+          "id": 3,
+          "title": "Data Science with Python",
+          "description": "Discover the world of data science using Python. Dive into libraries like NumPy and Pandas to analyze and visualize data, and gain insights for decision-making.",
+          "likeCount": 32
+        },
+        {
+          "id": 4,
+          "title": "UX/UI Design Principles",
+          "description": "Learn the fundamental principles of user experience (UX) and user interface (UI) design. Create visually appealing and user-friendly interfaces for your applications.",
+          "likeCount": 50
+        },
+        {
+          "id": 5,
+          "title": "Mobile App Development with React Native",
+          "description": "Build cross-platform mobile applications using React Native. Leverage your React skills to create native-like experiences for iOS and Android users.",
+          "likeCount": 38
+        },
+        {
+          "id": 6,
+          "title": "Cybersecurity Fundamentals",
+          "description": "Gain a foundational understanding of cybersecurity concepts, including encryption, network security, and ethical hacking. Protect your digital assets and information.",
+          "likeCount": 19
+        }
+      ]
+      
+}
